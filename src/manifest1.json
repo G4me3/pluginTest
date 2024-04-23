@@ -1,0 +1,124 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://www.sugilab.net/mori.hiroyuki.lab/sotuken/manifests/TsuneyasuArai/1948/manifest1.json",
+    "type": "Manifest",
+    "label": {
+        "ja": [
+            "新井恒易(1948) 西浦の田楽-静岡県周智郡水窪町-"
+        ]
+    },
+    "metadata": [
+        {
+            "label": [
+                ""
+            ],
+            "value": [
+                ""
+            ]
+        },
+        {
+            "label": [
+                ""
+            ],
+            "value": [
+                "メタデータ"
+            ]
+        },
+        {
+            "label": [
+                "タイトル"
+            ],
+            "value": [
+                "西浦の田楽-静岡県周智郡水窪町-"
+            ]
+        },
+        {
+            "label": [
+                "著者"
+            ],
+            "value": [
+                "新井恒易"
+            ]
+        },
+        {
+            "label": [
+                "発行年"
+            ],
+            "value": [
+                "1948"
+            ]
+        },
+        {
+            "label": [
+                "収録"
+            ],
+            "value": [
+                "伝統芸能講座第４巻民俗芸能"
+            ]
+        },
+        {
+            "label": [
+                "出版社"
+            ],
+            "value": [
+                "河出書房"
+            ]
+        },
+        {
+            "label": [
+                "記述演目"
+            ],
+            "value": [
+                "庭ならし"
+            ]
+        }
+    ],
+    "items": [
+        {
+            "type": "Canvas",
+            "id": "https://www.sugilab.net/mori.hiroyuki.lab/canvas/TsuneyasuArai/1",
+            "height": "1400",
+            "width": "1480",
+            "items": [
+                {
+                    "type": "AnnotationPage",
+                    "id": "https://www.sugilab.net/mori.hiroyuki.lab/canvas/TsuneyasuArai/1/page/1",
+                    "items": [
+                        {
+                            "type": "Annotation",
+                            "id": "https://www.sugilab.net/mori.hiroyuki.lab/canvas/TsuneyasuArai/1/page/1/1",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://www.sugilab.net/mori.hiroyuki.lab/sotuken/images/新井恒易,西浦の田楽−静岡県周智郡水窪町−,河出書房,伝統芸術講座第4巻民俗芸能,1954/新井恒易,西浦の田楽−静岡県周智郡水窪町−,河出書房,伝統芸術講座第4巻民俗芸能,1954_page-0004.jpg",
+                                "type": "Image",
+                                "height": "1400",
+                                "width": "1480",
+                                "format": "image/jpg"
+                            },
+                            "target": "https://www.sugilab.net/mori.hiroyuki.lab/canvas/TsuneyasuArai/1"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://www.sugilab.net/mori.hiroyuki.lab/canvas/TsuneyasuArai/1/annotation/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://www.sugilab.net/mori.hiroyuki.lab/canvas/TsuneyasuArai/1/annotation/1/1.1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": {
+                                "type": "TextualBody",
+                                "language": "ja",
+                                "value": "庭ならし"
+                            },
+                            "target": "https://www.sugilab.net/mori.hiroyuki.lab/canvas/TsuneyasuArai/1#xywh=870,280,80,900"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
