@@ -17,7 +17,7 @@ const config = {
     sideBarOpenByDefault: true,
   },
   windows: [{
-    loadedManifest: 'https://www.sugilab.net/mori.hiroyuki.lab/pluginTest/test.json',
+    loadedManifest: 'https://www.sugilab.net/mori.hiroyuki.lab/sotuken/manifests/TsuneyasuArai/1948/manifest1.json',
   }],
 };
 
